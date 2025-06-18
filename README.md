@@ -44,7 +44,8 @@ cd evento-frontend
         Toast-based error handling
 
     🧪 Test Credentials
-        Email: joeee@gmail.com
+        Email: vasim@gmail.com
         Password: 123456
     📦 Backend Repo
         👉 https://github.com/Syed1746/ticketbend.git
+```
